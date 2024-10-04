@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  YandexEats
+
+  Created by Artemiy Zuzin on 03.09.2024.
+  
+*/
+
+"cart.title" = "Корзина";
+"cart.button.title" = "Далее";
+"cart.subtitle" = "блюда";
+"cart.delete.alert.title" = "Вы уверены, что хотите очистить корзину?";
+"cart.delete.alert.yes" = "Да";
+"cart.delete.alert.no" = "Нет";
+"cart.error" = "Ошибка";
+"cart.succes" = "Готово";
+"cart.back.alert" = "Нажата кнопка";
+"cart.no.items" = "Нет блюд";
+"cart.subtitle" = "блюдо";
